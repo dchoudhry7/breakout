@@ -10,13 +10,15 @@ Turning blocking off is deliberately costly. Starting a block is instant, but en
 grows every time you try.
 
 <p align="center">
-  <img src="docs/screenshots/home.jpg" width="190" alt="Home" />
-  <img src="docs/screenshots/apps.jpg" width="190" alt="Apps and controls" />
-  <img src="docs/screenshots/focus.jpg" width="190" alt="Focus session" />
-  <img src="docs/screenshots/unblock-wait.jpg" width="190" alt="Unblock wait screen" />
+  <img src="docs/screenshots/home.png" width="200" alt="Home" />
+  <img src="docs/screenshots/apps.png" width="200" alt="Apps and controls" />
+  <img src="docs/screenshots/blocked-popup.png" width="200" alt="Blocked pop-up" />
 </p>
+
 <p align="center">
-  <img src="docs/screenshots/stats.jpg" width="190" alt="Stats" />
+  <img src="docs/screenshots/focus.png" width="200" alt="Focus session" />
+  <img src="docs/screenshots/unblock-wait.png" width="200" alt="Unblock wait screen" />
+  <img src="docs/screenshots/stats.png" width="200" alt="Stats" />
 </p>
 
 ## Features

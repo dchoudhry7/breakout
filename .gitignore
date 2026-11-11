@@ -39,3 +39,15 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# secrets: never commit real keys (commit .env.example only)
+.env
+.env.*
+!.env.example
+*.secret
+google-services.json
+GoogleService-Info.plist
+
+# local tooling
+.claude/settings.local.json
+.claude/worktrees/
